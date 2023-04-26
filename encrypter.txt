@@ -1,0 +1,4 @@
+This is a simple project based on text encryption, using ceaser cipher.
+I have used the textceaser module in the project.
+
+To use this simply run the .py program file.
